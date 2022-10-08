@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/htmlserver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/htmlserver/mshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobileshopmodel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mshopcomplete" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/onlineshopupdate" vcs="Git" />
+  </component>
+</project>
